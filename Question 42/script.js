@@ -1,3 +1,4 @@
+//Question 42 Solved 
 function show_magicians(magicians) {
     magicians.forEach(function (magician) {
         console.log(magician);
@@ -12,5 +13,5 @@ var magicians = [
 ];
 // Call make_great to modify the magicians array
 magicians = make_great(magicians);
-// Calling the function to show magicians after modification
+//Calling the function to show magicians after modification
 show_magicians(magicians);
