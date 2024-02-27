@@ -12,7 +12,7 @@ var current_users = [
     "sami", "hamza", "elon musk", "mark zakurbark", "sir zia khan"
 ];
 var new_users = [
-    "sami", "hamza", "ejaz", "saif", "shayan"
+    "SAMI", "hamza", "ejaz", "saif", "shayan"
 ];
 //Now, let's loop through the new_users name availability!
 for (var _i = 0, new_users_1 = new_users; _i < new_users_1.length; _i++) {
