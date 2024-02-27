@@ -14,7 +14,7 @@ const current_users: string[] = [
 ];
 
 const new_users: string[] = [
-    "SAMI", "hamza", "ejaz", "saif", "shayan"
+    "sami", "hamza", "ejaz", "saif", "shayan"
 ];
 
 //Now, let's loop through the new_users name availability!
