@@ -5,9 +5,9 @@
 
 3: Print a second set of invitation messages, one for each person who is still in your list.*/
 var changingGuestList = ["Kamran Tessori", "Nawaz Sharif", "Asif Ali Zardari", "Altaf Hussain"];
-for (var i = 0; i < changingGuestList.length; i++) {
-    console.log("Dear Mr.", changingGuestList[i], "\n\nIt is our Pleasure To Invite You in Our Party. \n\n ThankYou \n\n");
-}
+// for (let i = 0; i < changingGuestList.length; i++) {
+//     console.log("Dear Mr.", changingGuestList[i], "\n\nIt is our Pleasure To Invite You in Our Party. \n\n ThankYou \n\n");
+// }
 var person_Absent = "Imran Khan";
 var newGuest = "Kamran Tessori";
 changingGuestList[0] = newGuest;

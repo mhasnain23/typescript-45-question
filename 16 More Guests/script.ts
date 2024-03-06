@@ -8,9 +8,9 @@
 
 let changingGuestList:string[] = ["Kamran Tessori", "Nawaz Sharif", "Asif Ali Zardari", "Altaf Hussain"];
 
-for (let i = 0; i < changingGuestList.length; i++) {
-    console.log("Dear Mr.", changingGuestList[i], "\n\nIt is our Pleasure To Invite You in Our Party. \n\n ThankYou \n\n");
-}
+// for (let i = 0; i < changingGuestList.length; i++) {
+//     console.log("Dear Mr.", changingGuestList[i], "\n\nIt is our Pleasure To Invite You in Our Party. \n\n ThankYou \n\n");
+// }
 
 let person_Absent: string = "Imran Khan";
 let newGuest: string = "Kamran Tessori";
