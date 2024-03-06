@@ -7,9 +7,9 @@
 
 let changingGuestList: string[] = ["Imran Khan", "Nawaz Sharif", "Asif Ali Zardari", "Altaf Hussain"];
 
-for (let i = 0; i < changingGuestList.length; i++) {
+/*for (let i = 0; i < changingGuestList.length; i++) {
     console.log("Dear Mr.", changingGuestList[i], "\n\nIt is our Pleasure To Invite You in Our Party. \n\n ThankYou \n\n");
-}
+}*/
 
 let person_Absent: string = "Imran Khan";
 let newGuest: string = "Kamran Tessori";
@@ -24,6 +24,5 @@ console.log(`Mr. ${person_Absent}, is not coming to the party.`);
 console.log("\nGood news! we find big table so we are inviting 3 more guest");
 
 changingGuestList.unshift("Sir Zia Khan");
-changingGuestList.push("Maryam Nawaz");
 
-console.log("Dear Mr. ", changingGuestList[0], "\n\nIt is our Pleasure To Invite You in Our Party. \n\n ThankYou \n\n");
+console.log("\nDear Mr. ", changingGuestList[0], "\n\nIt is our Pleasure To Invite You in Our Party. \n\n ThankYou \n\n");
