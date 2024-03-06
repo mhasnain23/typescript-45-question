@@ -21,7 +21,7 @@ for (let i = 0; i < changingGuestList.length; i++) {
 }
 
 console.log(`Mr. ${person_Absent}, is not coming to the party.`);
-console.log("Good news! we find big table so we are inviting 3 more guest");
+console.log("\nGood news! we find big table so we are inviting 3 more guest");
 
 changingGuestList.unshift("Sir Zia Khan");
 changingGuestList.push("Maryam Nawaz");
